@@ -32,11 +32,12 @@ To get started with the project, follow these steps:
 To run the Gradio app and classify images, execute the following command:
 ```sh
 python app.py
-
+```
 
 To run it on HuggingFace Spaces and classify images, execute the following command:
 ```sh
 https://huggingface.co/spaces/nitinnsingh/AI-vs-Real-FaceDetector
+```
 
 
 
